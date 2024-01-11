@@ -1,3 +1,3 @@
 # hello
 
-A simple website.
+A simple dynamic website.
